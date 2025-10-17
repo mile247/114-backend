@@ -1,3 +1,4 @@
+#Python 3.9 version
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import Optional  # 用於可為 None 的欄位

@@ -1,3 +1,4 @@
+#Python 3.12 version
 from fastapi import FastAPI
 from pydantic import BaseModel
 

@@ -1,0 +1,10 @@
+--- Python 編譯檔案 ---
+pycache/
+*.py[cod]
+*$py.class
+
+--- 虛擬環境 ---
+.venv/
+venv/
+env/
+ENV/
